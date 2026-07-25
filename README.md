@@ -1,3 +1,4 @@
 # yt-demo
 This is my first time using git
-.md means mark down 
+<br>
+.md means mark down and it follows html syntax .
